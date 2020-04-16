@@ -1,4 +1,4 @@
-# Repositorio de manipulando memoria
+# Repositorio de manipulação de memoria
 
 [![N|Solid](https://i.imgur.com/mF9AKO0.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=fabinhoec2210@gmail.com&item_name=F%C3%A1bio&currency_code=BRL)
 
