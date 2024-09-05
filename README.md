@@ -1,8 +1,6 @@
-# Repositorio de manipulação de memoria
+# Exemplo simples de manipulação de memória de software no windows.
 
-[![N|Solid](https://cdn.discordapp.com/attachments/631607183301148672/724397007170568313/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=fabinhoec2210@gmail.com&item_name=F%C3%A1bio&currency_code=BRL)  [![N|Solid](https://cdn.discordapp.com/attachments/631607183301148672/724397005543178270/picpay.png)](https://app.picpay.com/user/smuu)
-
-Este projeto tem o intuito de "apenas maniuplar a memoria".
+Este código tem o intuito de exemplificar a manipulação de memória.
 
 
 ### Informações necessárias:
